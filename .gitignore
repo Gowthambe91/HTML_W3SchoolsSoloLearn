@@ -1,0 +1,5 @@
+/HTML_SoloLearn/bin
+/HTML_SoloLearn/obj/Debug
+/HTML_SoloLearn/Web.Debug.config
+/HTML_SoloLearn/Web.Release.config
+/HTML_SoloLearn/*.user
